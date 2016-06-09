@@ -10,3 +10,7 @@ function times(a,b){
 var answer = a*b;
 return answer;
 }
+function div(a,b){
+var answer = a/b;
+return answer;
+}

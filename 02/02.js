@@ -14,3 +14,7 @@ function div(a,b){
 var answer = a/b;
 return answer;
 }
+function mod(a,b){
+var answer = a%b;
+return answer;
+}
